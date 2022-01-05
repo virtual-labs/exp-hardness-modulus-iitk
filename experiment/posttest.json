@@ -48,15 +48,15 @@
       
     },
     {
-      "question": "",
+      "question": "When the plastic work increases",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "The recovery of material increases",
+        "b": "The elastic work done increases",
+        "c": "The hardness of material increases",
+        "d": "The total work done increases"
       },
       
-      "correctAnswer": "a"
+      "correctAnswer": "d"
       
     }
   ]
