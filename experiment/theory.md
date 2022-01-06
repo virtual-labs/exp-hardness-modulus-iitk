@@ -17,6 +17,6 @@ For each loading and partial unloading cycle, the curve is plotted between load 
 <img src="images/uhm2.jpg"><br>
 <img src="images/uhm3.jpg"><br>
 <b>Conclusion</b><br><br>
-<img src="images/uhm4.jpg"><br>
-Inference<br>
+<img src="images/uhm4.jpg"><br><br>
+Inference<br><br>
 <img src="images/modulas.jpg"><br>
