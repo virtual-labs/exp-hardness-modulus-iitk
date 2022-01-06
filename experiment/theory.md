@@ -3,13 +3,19 @@ Nanoindentation is a standard method to investigate mechanical properties like h
 <b>How to perform Nanoindentation?</b><br><br>
 Nanoindentation is a powerful technique where the indenter tip of known geometry is projected into the specific site in the material to be tested, increasing load is applied and when it reaches the designated maximum value, partial unloading is performed until desired depth is attained. The holding segment is introduced which allows the material to relax before unloading. The process is repeated many times and position of the indenter tip and the surface is monitored with differential transformer.<br><br>
 Reduced elastic modulus represents the elastic deformation that occurs in both sample and indenter tip.Reduced modulus can be calculated by:<br><br>
-H=Pmax/(Acontact)
-<img src="images/formula.PNG"><br><br>
+H=Pmax/(Acontact)<br><br>
+<img src="images/formula1.jpg"><br><br>
 Where,<br><br>
-
 E* = Reduced Modulus<br>
 E= Modulus of the specimen<br>
 E'=Modulus of the indenter<br>
 V= Poisson's ratio of the specimen<br>
 V'= Poisson's ratio of the indenter<br>
-For each loading and partial unloading cycle, the curve is plotted between load with depth which provides information about hardness, elastic modulus and plasticity of the material under examination.
+For each loading and partial unloading cycle, the curve is plotted between load with depth which provides information about hardness, elastic modulus and plasticity of the material under examination.<br><br>
+<b>Results</b><br><br>
+<img src="images/uhm1.jpg"><br>
+<img src="images/uhm2.jpg"><br>
+<img src="images/uhm3.jpg"><br>
+<b>Conclusion</b><br><br>
+<img src="uhm4.jpg"><br>
+<img src="modulas.jpg"><br>
