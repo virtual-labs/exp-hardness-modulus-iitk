@@ -26,4 +26,4 @@ For each loading and partial unloading cycle, the curve is plotted between load 
 <b>Conclusion</b><br><br><div style="float:left;width:55%;border: solid 1 px black;">
 <img src="images/uhm4.jpg"></div>
 <div style="float:left;width:40%;border: solid 1 px black;">Inference<br><br>
-<img src="images/modulas.jpg" width=300 height=400></div>
+<img src="images/modulas.jpg"></div>
