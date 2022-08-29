@@ -19,11 +19,11 @@ V= Poisson's ratio of the specimen<br>
 V'= Poisson's ratio of the indenter<br>
 For each loading and partial unloading cycle, the curve is plotted between load with depth which provides information about hardness, elastic modulus and plasticity of the material under examination.<br><br>
 <b>Results</b><br><br>
-<img src="images/uhm1.jpg"><br>
-<img src="images/uhm2.jpg"><br>
+<div style="float:left;width:55%;border: solid 1 px black;"><img src="images/uhm1.jpg"></div>
+ <div style="float:left;width:40%;border: solid 1 px black;"><img src="images/uhm1.jpg"></div><br>
+  <div style="content: '.';clear: both;display: block;height: 0;visibility: hidden;"></div>
 <img src="images/uhm3.jpg"><br>
-<b>Conclusion</b><br><br>
-<div style="float:left;width:55%;border: solid 1 px black;">
+<b>Conclusion</b><br><br><div style="float:left;width:55%;border: solid 1 px black;">
 <img src="images/uhm4.jpg"></div>
 <div style="float:left;width:40%;border: solid 1 px black;">Inference<br><br>
 <img src="images/modulas.jpg" width=300 height=400></div>
